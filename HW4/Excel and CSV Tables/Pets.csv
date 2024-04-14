@@ -1,0 +1,21 @@
+pet ID,Tagid,PetType,Species,Breed,PrimaryColor,Name,Gender,BirthDate,IntakeDate,Height,Weight,SpayedNeutered,Status,Comments
+1,A123456,Dog,Canine,Labrador Retriever,Golden,Max,Male,5/15/2020,6/1/2020,24,65,Yes,Adopted,Friendly and energetic
+2,B789012,Cat,Feline,Siamese,Seal Point,Luna,Female,8/22/2019,9/10/2019,12,10,Yes,Available,Playful and affectionate
+3,C345678,Dog,Canine,German Shepherd,Black/Tan,Rocky,Male,2/10/2018,3/5/2018,28,80,No,On Hold,Requires special diet
+4,D901234,Cat,Feline,Persian,White,Bella,Female,1/7/2021,2/1/2021,10,12,Yes,Adopted,Loves cuddling
+5,E567890,Dog,Canine,Beagle,Tri-color,Daisy,Female,9/18/2017,10/5/2017,18,25,Yes,Available,Good with children
+6,F123456,Cat,Feline,Maine Coon,Tabby,Simba,Male,4/3/2019,4/20/2019,16,15,No,Adopted,Shy but sweet nature
+7,G789012,Dog,Canine,Dachshund,Red,Chloe,Female,6/12/2022,7/1/2022,12,18,Yes,Available,Loves to play fetch
+8,H345678,Cat,Feline,Ragdoll,Blue Bicolor,Oliver,Male,11/30/2020,12/15/2020,14,14,Yes,On Hold,Requires grooming
+9,I901234,Dog,Canine,Bulldog,Brindle,Rocky,Male,7/4/2016,8/1/2016,20,75,Yes,Adopted,Gentle and calm
+10,J567890,Cat,Feline,Bengal,Spotted,Mia,Female,2/14/2020,3/1/2020,11,11,Yes,Available,Enjoys interactive toys
+11,K123456,Dog,Canine,Poodle,Apricot,Teddy,Male,5/9/2019,6/1/2019,15,20,No,Adopted,Requires regular walks
+12,L789012,Cat,Feline,Sphynx,Pink,Gizmo,Male,12/25/2017,1/10/2018,8,9,Yes,Available,Indoor cat
+13,M345678,Dog,Canine,Golden Retriever,Cream,Lily,Female,9/3/2020,9/20/2020,22,60,Yes,Adopted,Loves water activities
+14,N901234,Cat,Feline,Scottish Fold,Silver Tabby,Whiskers,Female,4/17/2018,5/1/2018,9,10,Yes,On Hold,Requires special care
+15,O567890,Dog,Canine,Shih Tzu,White,Toby,Male,1/30/2017,2/15/2017,10,12,Yes,Adopted,Affectionate and playful
+16,P123456,Cat,Feline,Abyssinian,Ruddy,Leo,Male,6/8/2019,7/1/2019,12,14,Yes,Available,Active and curious
+17,Q789012,Dog,Canine,Boxer,Fawn,Zoey,Female,11/12/2015,12/1/2015,25,70,No,On Hold,Requires experienced owner
+18,R345678,Cat,Feline,Birman,Cream Point,Luna,Female,3/22/2021,4/1/2021,11,13,Yes,Adopted,Playful and talkative
+19,S901234,Dog,Canine,Rottweiler,Black/Brown,Duke,Male,8/7/2018,9/1/2018,27,90,Yes,Available,Protective and loyal
+20,T567890,Cat,Feline,Oriental Shorthair,Ebony,Shadow,Male,1/14/2022,2/1/2022,10,11,No,Adopted,Independent and curious
